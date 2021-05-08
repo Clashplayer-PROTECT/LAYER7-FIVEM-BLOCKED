@@ -1,8 +1,8 @@
 # BLOQUEZ LE PLAYERS.JSON
 # Block it PLAYERS.JSON
 
-FR 🇫🇷 : 
-#Les principales attaques sur fivem se font sur une attaque web donc layer7.
+🇫🇷 : 
+Les principales attaques sur fivem se font sur une attaque web donc layer7.
 
 Mais il existe une ligne dans le server.cfg pour le totalement stop !
 
@@ -10,7 +10,7 @@ Cette ligne n'est pas très connue sur les serveurs français car souvent les pe
 
 J'ai donc décidé de partager sur mon github.
 
-EN 🇬🇧 : 
+🇬🇧 : 
 The main attacks on fivem are done on a web attack so layer7.
 
 But there is a line in the server.cfg for the total stop!
