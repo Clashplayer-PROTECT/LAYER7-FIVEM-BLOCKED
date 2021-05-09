@@ -19,6 +19,6 @@ This line is not well known on french servers because often people who have this
 So I decided to share on my github.
 
 ```
-set sv_requestParanoia 2
+set sv_requestParanoia 3
 ```
  ![alt text](https://i.imgur.com/5yTjY4R.png) 
