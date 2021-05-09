@@ -1,4 +1,4 @@
-# BLOQUEZ LE PLAYERS.JSON / BLOCK IT PLAYERS.JSON, DYNMANIC.JSON and INFO.JSON
+# BLOQUEZ LE PLAYERS.JSON / BLOCK IT PLAYERS.JSON, DYNMANIC.JSON AND INFO.JSON
 
 🇫🇷 : 
 Les principales attaques sur fivem se font sur une attaque web donc layer7.
