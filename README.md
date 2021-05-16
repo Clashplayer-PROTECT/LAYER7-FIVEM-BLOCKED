@@ -30,4 +30,3 @@ set sv_requestParanoia 3
 ```
  ![alt text](https://i.imgur.com/5yTjY4R.png) 
 
-https://forum.cfx.re/t/hide-players-json-dynmanic-json-and-info-json/2894945
