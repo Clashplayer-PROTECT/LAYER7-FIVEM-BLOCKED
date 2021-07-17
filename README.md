@@ -27,6 +27,12 @@ So I decided to share on my github.
 
 ```
 set sv_requestParanoia 3
+
+sv_endpointprivacy true
+
+sv_forceIndirectListing true
+
+sv_useDirectListing true
 ```
  ![alt text](https://i.imgur.com/5yTjY4R.png) 
 
