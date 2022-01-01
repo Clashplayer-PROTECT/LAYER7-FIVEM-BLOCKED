@@ -39,6 +39,7 @@ sv_authMinTrust 4
   ![alt text](https://i.imgur.com/5yTjY4R.png) 
 
 **Information par RAPPORT FIVE-DEV**
+
 Parlons de FIVE-DEV, qui s'est permis de récupérer l'intégralité de mon message écrit par moi, sans en mettre le crédit !
 Une simple information, un bypass existe donc ils sont très mal informés.
 Quelques captures d'écran de la conversation sur le ticket  !
