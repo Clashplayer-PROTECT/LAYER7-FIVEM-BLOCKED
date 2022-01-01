@@ -42,7 +42,9 @@ sv_authMinTrust 4
 Parlons de FIVE-DEV, qui s'est permis de récupérer l'intégralité de mon message écrit par moi, sans en mettre le crédit !
 Une simple information, un bypass existe donc ils sont très mal informés.
 Quelques captures d'écran de la conversation sur le ticket  !
-  
-  ![alt text](https://imgur.com/a/2Gz9CNu.png) 
+Lien : https://imgur.com/a/2Gz9CNu
+
+Vous avez la permission de copier mon texte à condition de donner crédit à mon github.
 
 
+© Clashplayer 2021 - 2022
