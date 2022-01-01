@@ -45,7 +45,7 @@ Une simple information, un bypass existe donc ils sont très mal informés.
 Quelques captures d'écran de la conversation sur le ticket  !
 Lien : https://imgur.com/a/2Gz9CNu
 
-Vous avez la permission de copier mon texte à condition de donner crédit à mon github.
+Vous avez la permission de copier mon texte à condition de donner crédit de mon github.
 
 
 © Clashplayer 2021 - 2022
