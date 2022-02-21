@@ -36,14 +36,7 @@ sv_useDirectListing true
 
 sv_authMinTrust 4
 ```
-  ![alt text](https://i.imgur.com/5yTjY4R.png) 
 
-**Information par RAPPORT FIVE-DEV**
-
-Parlons de FIVE-DEV, qui s'est permis de récupérer l'intégralité de mon message écrit par moi, sans en mettre le crédit de mon github !
-Une simple information, un bypass existe donc ils sont très mal informés.
-Quelques captures d'écran de la conversation sur le ticket  !
-Lien : https://imgur.com/a/2Gz9CNu
 
 Vous avez la permission de copier mon texte à condition de donner crédit de mon github.
 
